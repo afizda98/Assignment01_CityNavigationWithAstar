@@ -1,5 +1,3 @@
-# Tambahkan visualisasi graf dengan networkx dan matplotlib serta versi dengan bobot jalan
-
 import heapq
 import math
 import matplotlib.pyplot as plt
